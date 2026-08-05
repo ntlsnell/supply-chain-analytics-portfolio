@@ -1,0 +1,4 @@
+tariff_era,tariff_events,avg_tariff_rate_pct,max_tariff_rate_pct,retaliation_events,section_301_events,section_232_events
+1. Trump 1.0 (2018-20),18,31.4,212.0,4,5,1
+2. Biden (2021-24),11,23.0,100.0,0,1,0
+3. Trump 2.0 (2025+),42,28.8,145.0,6,0,4
