@@ -1,0 +1,14 @@
+event_name,event_month,rate_3m_before,rate_3m_after,rate_change_pct
+Lehman collapse — global trade freeze,2008-09,1977.0,2177.0,10.1
+Tohoku earthquake/tsunami — Japan supply shock,2011-03,2727.0,2450.0,-10.1
+US-China trade war escalation ($250B),2018-07,3053.0,2537.0,-16.9
+Wuhan lockdown — COVID manufacturing halt,2020-01,2927.0,3810.0,30.2
+COVID-19 pandemic declared — global shutdown,2020-03,2787.0,4487.0,61.0
+PPE supply crisis — medical supply squeeze,2020-04,3277.0,5267.0,60.7
+Container equipment shortage begins,2020-09,5690.0,6853.0,20.4
+Post-COVID demand surge — port congestion,2021-01,6853.0,8960.0,30.7
+Global semiconductor shortage peak,2021-07,9410.0,10533.0,11.9
+"FBX container rate peaks ($11,000+/40ft)",2021-11,10533.0,11377.0,8.0
+Russia invades Ukraine — commodity shock,2022-02,11800.0,9983.0,-15.4
+Shanghai COVID lockdown (2 months),2022-04,10697.0,7417.0,-30.7
+Houthi attacks escalate — Red Sea closure,2023-12,2600.0,2613.0,0.5
