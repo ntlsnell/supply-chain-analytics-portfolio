@@ -22,8 +22,18 @@ Event study of 58 major supply chain disruptions (2001–2025) and their impact 
 
 ---
 
+### [Case 02 — Tariff Wars & Trade Flow Shifts](case-02-tariff-wars-trade-flows/README.md)
+How three waves of US tariff policy reshaped 50 trade corridors — 71 real policy events against 25 years of corridor flows. Trump 2.0 fired more tariff actions than both previous eras combined; the China corridor flipped to negative growth while Mexico gained +27.8%.
+> Tools: SQL · Tableau Public
+> Dataset: 71 tariff policy events + 1,250 corridor-year records | 50 corridors | 2000–2026
+
+🔗 [View Dashboard](https://public.tableau.com/views/TariffWarsTradeFlowShifts/Dashboard1)
+
+---
+
 ## ⭐️ Dashboards Preview
 
 | Case | Dashboard |
 |---|---|
 | Global Shipping Disruptions | [![preview](case-01-shipping-disruptions-event-study/dashboards/shipping-disruptions-event-study.png)](https://public.tableau.com/views/GlobalShippingDisruptions25YearEventStudy/Dashboard1) |
+| Tariff Wars & Trade Flows | [![preview](case-02-tariff-wars-trade-flows/dashboards/tariff-wars-trade-flows.png)](https://public.tableau.com/views/TariffWarsTradeFlowShifts/Dashboard1) |
