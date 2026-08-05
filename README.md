@@ -31,9 +31,19 @@ How three waves of US tariff policy reshaped 50 trade corridors — 71 real poli
 
 ---
 
+### [Case 03 — Boeing vs Airbus: A Duopoly Under Stress](case-03-boeing-airbus-duopoly/README.md)
+The commercial aviation duopoly through the 737 MAX crisis and COVID — Boeing's net orders went negative twice (−87, −1,026) while the Airbus backlog pulled away from near-parity to a 2,850-aircraft lead. Recovery split sharply by region and business model.
+> Tools: SQL · Tableau Public
+> Dataset: 4 aviation tables | 30 airlines | 17 years | 2010–2026
+
+🔗 [View Dashboard](https://public.tableau.com/views/BoeingvsAirbusDuopolyUnderStress/Dashboard1)
+
+---
+
 ## ⭐️ Dashboards Preview
 
 | Case | Dashboard |
 |---|---|
 | Global Shipping Disruptions | [![preview](case-01-shipping-disruptions-event-study/dashboards/shipping-disruptions-event-study.png)](https://public.tableau.com/views/GlobalShippingDisruptions25YearEventStudy/Dashboard1) |
 | Tariff Wars & Trade Flows | [![preview](case-02-tariff-wars-trade-flows/dashboards/tariff-wars-trade-flows.png)](https://public.tableau.com/views/TariffWarsTradeFlowShifts/Dashboard1) |
+| Boeing vs Airbus Duopoly | [![preview](case-03-boeing-airbus-duopoly/dashboards/boeing-airbus-duopoly.png)](https://public.tableau.com/views/BoeingvsAirbusDuopolyUnderStress/Dashboard1) |
