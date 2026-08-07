@@ -2,10 +2,10 @@
 A collection of supply chain and trade analytics projects, built to demonstrate analytical skills on disruption impact, trade policy, and industry dynamics using multi-table datasets.
 
 ## ⭐️ About
-This portfolio showcases supply chain analytics work including disruption event studies, freight rate analysis, trade policy impact, and industry risk assessment — targeting Supply Chain Analyst and Industry/Market Analyst roles.
+This portfolio showcases supply chain analytics work including disruption event studies, freight rate analysis, trade policy impact, industry risk assessment, and cross-dataset causal analysis — targeting Supply Chain Analyst and Industry/Market Analyst roles.
 
 ## ⭐️ Stack
-- **SQL** (SQLite) — data extraction, window functions, event-study joins
+- **SQL** (SQLite) — window functions, CTE joins, event-study windows, cross-dataset integration
 - **Tableau Public** — interactive dashboards
 - **GitHub** — version control and portfolio hosting
 
@@ -49,6 +49,15 @@ The commercial aviation duopoly through the 737 MAX crisis and COVID — Boeing'
 
 ---
 
+### [Case 05 — AI Boom & the Memory Crisis](case-05-ai-boom-memory-crisis/README.md)
+**Cross-dataset analysis** joining two independent Kaggle datasets to trace one causal chain: AI accelerators consume HBM → HBM consumes fab capacity → inventory drains from 14.8 to 3.1 weeks → consumer memory prices multiply 5×. The HBM premium over commodity DRAM widened from 48× to 384×.
+> Tools: SQL (cross-dataset CTE join, derived metrics) · Tableau Public
+> Datasets: Global Semiconductor Industry × Memory Crisis | 10,000 memory kits | 2024–2026
+
+🔗 [View Dashboard](https://public.tableau.com/views/AIBoomandtheMemoryCrisis/Dashboard1)
+
+---
+
 ## ⭐️ Dashboards Preview
 
 | Case | Dashboard |
@@ -57,3 +66,4 @@ The commercial aviation duopoly through the 737 MAX crisis and COVID — Boeing'
 | Tariff Wars & Trade Flows | [![preview](case-02-tariff-wars-trade-flows/dashboards/tariff-wars-trade-flows.png)](https://public.tableau.com/views/TariffWarsTradeFlowShifts/Dashboard1) |
 | Boeing vs Airbus Duopoly | [![preview](case-03-boeing-airbus-duopoly/dashboards/boeing-airbus-duopoly.png)](https://public.tableau.com/views/BoeingvsAirbusDuopolyUnderStress/Dashboard1) |
 | The Chip War | [![preview](case-04-chip-war-export-controls/dashboards/chip-war-export-controls.png)](https://public.tableau.com/views/TheChipWarExportControlsFabCapacityRace/Dashboard1) |
+| AI Boom & Memory Crisis | [![preview](case-05-ai-boom-memory-crisis/dashboards/ai-boom-memory-crisis.png)](https://public.tableau.com/views/AIBoomandtheMemoryCrisis/Dashboard1) |
