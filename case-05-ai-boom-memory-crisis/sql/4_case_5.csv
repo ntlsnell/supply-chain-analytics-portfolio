@@ -1,0 +1,7 @@
+market_segment,generation,kits,avg_price_per_gb,avg_kit_price_usd,shortage_inflated_pct
+Enterprise/AI,DDR6 (Preview),354,147.75,20784.0,66.1
+Consumer,DDR6 (Preview),106,84.67,2709.0,58.5
+Enterprise/AI,DDR5,4917,36.6,7228.0,65.0
+Consumer,DDR5,2113,20.77,666.0,52.5
+Enterprise/AI,DDR4,1170,16.62,1440.0,65.6
+Consumer,DDR4,1335,9.4,176.0,52.5
